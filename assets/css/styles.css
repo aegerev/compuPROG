@@ -8,8 +8,12 @@
 
 .plain {
     font-size: 25px;
-    color: #FF0000;
+    color: #4D4DFF;
     font-style: italic;
+}
+
+h1 {
+    text-align: center;
 }
 
 img {
@@ -24,7 +28,7 @@ footer {
     width: 100%;
     text-align: center;
     background-color: #2A52BE;
-    color: #FFD800;  
+    color: #B87333;  
     padding: 20px; 
     font-size: 1em;
 }
